@@ -1,7 +1,7 @@
-<a href="/README.md"><img align="right" width="160" src="/logos/elearning-platforms.png"></img></a>
+<a href="/README.md"><img align="right" width="160" src="/logos/eLearning-platform-resources.png"></img></a>
 
-# eLearning Platforms
-eLearning Platforms for computer science students.
+# eLearning Platform Resources
+eLearning Platform Resources for computer science students.
 
 <br><br><br>
 
