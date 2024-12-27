@@ -1,16 +1,7 @@
-<a href="/README.md"><img align="right" width="160" src="/logos/elearning-platforms.png"></img></a>
+<a href="/README.md"><img align="right" width="160" src="/logos/eLearning-platform-resources.png"></img></a>
 
-# eLearning Platforms
-eLearning Platforms for computer science students.
-
-<table>
-    <tbody>
-<tr>
-<td align="center" width="10%"><a href="https://forms.gle/3rRZLvBtCusJZd6k9"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-icons/announcement.png" width="100%"></img></a></td>
-<td align="center" width="90%"><h3>Are you looking for a 6-week individual mentorship program? <a href="https://forms.gle/3rRZLvBtCusJZd6k9">fill an application</a></h3><br></td>
-</tr>
-    </tbody>
-</table>
+# eLearning Platform Resources
+eLearning Platform Resources for computer science students.
 
 <br><br><br>
 
@@ -53,11 +44,6 @@ eLearning Platforms for computer science students.
 <br>
 
 ## [`Udemy Courses`](/udemy-courses/README.md)
-
-<a href="/udacity-nanodegrees/README.md"><img align="right" width="80" src="/logos/udacity.png"></img></a>
-<br>
-
-## [`Udacity Nanodegrees`](/udacity-nanodegrees/README.md)
 
 <a href="/edx-programs/README.md"><img align="right" width="80" src="/logos/edx.png"></img></a>
 <br>
