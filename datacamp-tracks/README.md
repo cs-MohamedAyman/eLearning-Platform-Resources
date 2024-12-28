@@ -231,7 +231,7 @@ DataCamp Tracks road map for computer science students.
     <tbody>
 <tr>
 <td rowspan=4 align="center">05</td>
-<td rowspan=4 align="center"><a href="https://app.datacamp.com/learn/skill-tracks/time-series-with-python">Time Series in Python</a><br></td>
+<td rowspan=4 align="center"><a href="https://app.datacamp.com/learn/skill-tracks/keras-fundamentals">Keras Fundamentals</a><br></td>
 <td><a href="https://app.datacamp.com/learn/courses/introduction-to-deep-learning-with-keras">Introduction to Deep Learning with Keras</a></td>
 <td rowspan=4 align="center">16</td>
 </tr>
